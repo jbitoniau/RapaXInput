@@ -3,7 +3,6 @@ RapaXInput
 A C++ object-oriented library for accessing XBox 360 controllers on Windows
 
 ![alt text](docs/RapaXInput1.jpg?raw=true "An XBox 360 controller")
-![alt text](docs/RapaXInput2.jpg?raw=true "RapaXInput test application")
 
 # Overview 
 RapaXInput (formerly [Xiol](https://code.google.com/p/xiol/)) is a C++ library that provides access to XBox 360 controllers on Windows. 
@@ -21,3 +20,7 @@ On top of that, RapaXInput proposes an event-driven approach: the client code re
 * the state of a components changes
 
 RapaXInput transparently supports versions 9.0.1, 1.3 and 1.4 the XInput API. It can be compiled as a 32-bit or 64-bit library.
+
+RapaXInput comes with a couple of examples including a GUI test application
+
+![alt text](docs/RapaXInput2.jpg?raw=true "RapaXInput test application")
